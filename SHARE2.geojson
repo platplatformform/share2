@@ -1,0 +1,224 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjoyMDY1YWQwNC1lNTYzLTQ3MWEtYjMzOC01Njg3Y2Q1MDVmYmM",
+        "place_name": "1543 Wazee Street, Denver, Colorado 80202, United States",
+        "num": 6
+      },
+      "geometry": {
+        "coordinates": [
+          -105.000803,
+          39.751021
+        ],
+        "type": "Point"
+      },
+      "id": "1df1666a55c3e7ef35a3b0de4ddee94b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo5ZTM3NzIyYi1jNjA5LTRlYjctYTNkMy04ODRhNjQwNWQ2MjE",
+        "place_name": "2715 West 8th Avenue, Denver, Colorado 80204, United States",
+        "num": 3
+      },
+      "geometry": {
+        "coordinates": [
+          -105.020813,
+          39.729558
+        ],
+        "type": "Point"
+      },
+      "id": "3c1296e87b826d62451f380ca943b283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo4MDBhYTM5MS01OTQ2LTRjMjQtOGJiNC0yYWExNjM2OWYzYjU",
+        "place_name": "1465 Delgany Street, Denver, Colorado 80202, United States",
+        "num": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -105.00434,
+          39.75211
+        ],
+        "type": "Point"
+      },
+      "id": "59e97479cd295d78299f694bef54f6de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjpkOTA5MTQyNC04MjBlLTQyNjYtOWViZi04ODM3YmU2N2ExNzU",
+        "place_name": "2350 Arapahoe Street, Denver, Colorado 80205, United States",
+        "num": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -104.986146,
+          39.754933
+        ],
+        "type": "Point"
+      },
+      "id": "75d3909a428ea8cf33ebe66a45d0c6ca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo0NWQ1YTQwOC01MzQ3LTQ4ZDUtOTQ4NC02YzNlYzE0MzE1NTY",
+        "place_name": "2500 Larimer Street, Denver, Colorado 80205, United States",
+        "num": 12
+      },
+      "geometry": {
+        "coordinates": [
+          -104.986171,
+          39.757618
+        ],
+        "type": "Point"
+      },
+      "id": "8e862e91d1e3135d7d9e8404e370b1aa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjozY2Y3MDUwZC01OTAyLTRlMDgtYjZkOS01OTJmMjdiYTM5NDA",
+        "place_name": "2510 East Colfax Avenue, Denver, Colorado 80206, United States",
+        "num": 11
+      },
+      "geometry": {
+        "coordinates": [
+          -104.957008,
+          39.739886
+        ],
+        "type": "Point"
+      },
+      "id": "95d2ce865d8e8b769e565ab6cb4829c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjphYTIxMzU2OC03OGNhLTRhNTQtOWIwZS0zYzFkODEzYzg0ZjU",
+        "place_name": "2701 West Colfax Avenue, Denver, Colorado 80204, United States",
+        "num": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -105.020695,
+          39.74025
+        ],
+        "type": "Point"
+      },
+      "id": "99766c88bf1c69e3f2494f6c39b27be5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "poi",
+        "poiname": "Matt Barton's Community Forms"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.982443,
+          39.772386
+        ],
+        "type": "Point"
+      },
+      "id": "a59b3979e0e9124bb60c6068c0db2b0d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo5ZjYxYzhmZi1kOGMxLTRhOWYtYjE3NC1kNWNlMjljOGUwMGU",
+        "place_name": "2500 Walnut Street, Denver, Colorado 80205, United States",
+        "num": 10
+      },
+      "geometry": {
+        "coordinates": [
+          -104.986836,
+          39.75838
+        ],
+        "type": "Point"
+      },
+      "id": "aaf74d206094c9032227b5a40c6a144c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo1ZTc5MjZjNC1iMDczLTQ0ZDEtOTE1OS1lODgyN2U3NDkyMmQ",
+        "place_name": "2528 Walnut Street, Denver, Colorado 80205, United States",
+        "num": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -104.986592,
+          39.758602
+        ],
+        "type": "Point"
+      },
+      "id": "b7a3809bbacc767a0f2f452d9e1d24d8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjpmNWY1YzE4OC04MzJhLTQ1OTktYTc0Mi03OWE4Y2NmODcxNjM",
+        "place_name": "861 Santa Fe Drive, Denver, Colorado 80204, United States",
+        "num": 9
+      },
+      "geometry": {
+        "coordinates": [
+          -104.998905,
+          39.730055
+        ],
+        "type": "Point"
+      },
+      "id": "ba930645ad3b8a9660966fb9206b9411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "interpolated",
+        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKMlpYSnphVzl1SWpvMUxDSmpZV3hzWW1GamF5STZiblZzYkN3aWNTSTZJakV5TURVZ01UQjBhQ0JUZENCUWJHRjZZU3dnUkdWdWRtVnlMQ0JEVHlBNE1ESXdOQ0o5OjA",
+        "place_name": "1205 10th Street, Denver, Colorado 80204, United States",
+        "num": 7
+      },
+      "geometry": {
+        "coordinates": [
+          -105.003555,
+          39.743153
+        ],
+        "type": "Point"
+      },
+      "id": "c5b2f7e00604f275236faeaccfa0c8cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo1NTBhNjIwNC1mN2QyLTRjNzEtOTVmOC0wZGZiYjMyNDgzMzA",
+        "place_name": "1025 13th Street, Denver, Colorado 80204, United States",
+        "num": 8
+      },
+      "geometry": {
+        "coordinates": [
+          -104.998451,
+          39.744686
+        ],
+        "type": "Point"
+      },
+      "id": "e25e5478c51d1610c1070a727fc68e03"
+    }
+  ],
+  "type": "FeatureCollection"
+}
