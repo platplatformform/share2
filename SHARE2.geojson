@@ -6,7 +6,7 @@
         "accuracy": "rooftop",
         "mapbox_id": "dXJuOm1ieGFkcjoyMDY1YWQwNC1lNTYzLTQ3MWEtYjMzOC01Njg3Y2Q1MDVmYmM",
         "place_name": "1543 Wazee Street, Denver, Colorado 80202, United States",
-        "num": 6
+        "num": 5
       },
       "geometry": {
         "coordinates": [
@@ -23,7 +23,7 @@
         "accuracy": "rooftop",
         "mapbox_id": "dXJuOm1ieGFkcjo5ZTM3NzIyYi1jNjA5LTRlYjctYTNkMy04ODRhNjQwNWQ2MjE",
         "place_name": "2715 West 8th Avenue, Denver, Colorado 80204, United States",
-        "num": 3
+        "num": 2
       },
       "geometry": {
         "coordinates": [
@@ -40,7 +40,7 @@
         "accuracy": "rooftop",
         "mapbox_id": "dXJuOm1ieGFkcjo4MDBhYTM5MS01OTQ2LTRjMjQtOGJiNC0yYWExNjM2OWYzYjU",
         "place_name": "1465 Delgany Street, Denver, Colorado 80202, United States",
-        "num": 2
+        "num": 3
       },
       "geometry": {
         "coordinates": [
@@ -57,7 +57,7 @@
         "accuracy": "rooftop",
         "mapbox_id": "dXJuOm1ieGFkcjpkOTA5MTQyNC04MjBlLTQyNjYtOWViZi04ODM3YmU2N2ExNzU",
         "place_name": "2350 Arapahoe Street, Denver, Colorado 80205, United States",
-        "num": 5
+        "num": 9
       },
       "geometry": {
         "coordinates": [
@@ -74,7 +74,7 @@
         "accuracy": "rooftop",
         "mapbox_id": "dXJuOm1ieGFkcjo0NWQ1YTQwOC01MzQ3LTQ4ZDUtOTQ4NC02YzNlYzE0MzE1NTY",
         "place_name": "2500 Larimer Street, Denver, Colorado 80205, United States",
-        "num": 12
+        "num": 11
       },
       "geometry": {
         "coordinates": [
@@ -91,7 +91,7 @@
         "accuracy": "rooftop",
         "mapbox_id": "dXJuOm1ieGFkcjozY2Y3MDUwZC01OTAyLTRlMDgtYjZkOS01OTJmMjdiYTM5NDA",
         "place_name": "2510 East Colfax Avenue, Denver, Colorado 80206, United States",
-        "num": 11
+        "num": 12
       },
       "geometry": {
         "coordinates": [
@@ -123,7 +123,7 @@
       "type": "Feature",
       "properties": {
         "type": "poi",
-        "poiname": "Matt Barton's Community Forms"
+        "poiname": "Matt Barton Community Forms"
       },
       "geometry": {
         "coordinates": [
@@ -140,7 +140,7 @@
         "accuracy": "rooftop",
         "mapbox_id": "dXJuOm1ieGFkcjo5ZjYxYzhmZi1kOGMxLTRhOWYtYjE3NC1kNWNlMjljOGUwMGU",
         "place_name": "2500 Walnut Street, Denver, Colorado 80205, United States",
-        "num": 10
+        "num": 8
       },
       "geometry": {
         "coordinates": [
@@ -157,7 +157,7 @@
         "accuracy": "rooftop",
         "mapbox_id": "dXJuOm1ieGFkcjo1ZTc5MjZjNC1iMDczLTQ0ZDEtOTE1OS1lODgyN2U3NDkyMmQ",
         "place_name": "2528 Walnut Street, Denver, Colorado 80205, United States",
-        "num": 4
+        "num": 10
       },
       "geometry": {
         "coordinates": [
@@ -174,7 +174,7 @@
         "accuracy": "rooftop",
         "mapbox_id": "dXJuOm1ieGFkcjpmNWY1YzE4OC04MzJhLTQ1OTktYTc0Mi03OWE4Y2NmODcxNjM",
         "place_name": "861 Santa Fe Drive, Denver, Colorado 80204, United States",
-        "num": 9
+        "num": 7
       },
       "geometry": {
         "coordinates": [
@@ -191,7 +191,7 @@
         "accuracy": "interpolated",
         "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKMlpYSnphVzl1SWpvMUxDSmpZV3hzWW1GamF5STZiblZzYkN3aWNTSTZJakV5TURVZ01UQjBhQ0JUZENCUWJHRjZZU3dnUkdWdWRtVnlMQ0JEVHlBNE1ESXdOQ0o5OjA",
         "place_name": "1205 10th Street, Denver, Colorado 80204, United States",
-        "num": 7
+        "num": 4
       },
       "geometry": {
         "coordinates": [
@@ -208,7 +208,7 @@
         "accuracy": "rooftop",
         "mapbox_id": "dXJuOm1ieGFkcjo1NTBhNjIwNC1mN2QyLTRjNzEtOTVmOC0wZGZiYjMyNDgzMzA",
         "place_name": "1025 13th Street, Denver, Colorado 80204, United States",
-        "num": 8
+        "num": 6
       },
       "geometry": {
         "coordinates": [
